@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="APARECIDA" tvg-logo="http://img.starbr.in/1516239036_4f0ade344b23843f3badcd200ce13d1c6b8cc8aa.png" group-title="Religioso",APARECIDA
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/916
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="APARECIDA HD" tvg-logo="http://img.starbr.in/1516239036_4f0ade344b23843f3badcd200ce13d1c6b8cc8aa.png" group-title="Religioso",APARECIDA HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20831
+#EXTINF:-1 tvg-id="Boa Vontade TV" tvg-name="BOA VONTADE TV" tvg-logo="http://img.starbr.in/1552655925_fb6165d2fd93292a05e954b02dc825ed3c739773.png" group-title="Religioso",BOA VONTADE TV
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/18030
+#EXTINF:-1 tvg-id="Boa Vontade TV" tvg-name="BOA VONTADE TV HD" tvg-logo="http://img.starbr.in/1552655925_fb6165d2fd93292a05e954b02dc825ed3c739773.png" group-title="Religioso",BOA VONTADE TV HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/37800
+#EXTINF:-1 tvg-id="Boa Vontade TV" tvg-name="BOA VONTADE TV SHD" tvg-logo="http://img.starbr.in/1552655925_fb6165d2fd93292a05e954b02dc825ed3c739773.png" group-title="Religioso",BOA VONTADE TV SHD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38469
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANCAO NOVA" tvg-logo="http://img.starbr.in/1516240840_84d0f3e54c1bef1704434443c4265423cab34cfa.jpg" group-title="Religioso",CANCAO NOVA
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1220
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANCAO NOVA HD" tvg-logo="http://img.starbr.in/1516240840_84d0f3e54c1bef1704434443c4265423cab34cfa.jpg" group-title="Religioso",CANCAO NOVA HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/37784
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANCAO NOVA SD+" tvg-logo="http://img.starbr.in/1516240840_84d0f3e54c1bef1704434443c4265423cab34cfa.jpg" group-title="Religioso",CANCAO NOVA SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38470
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="NOVO TEMPO" tvg-logo="http://img.starbr.in/1516320025_76813c1141aa8763a37670733dc545fb43c2ab30.jpg" group-title="Religioso",NOVO TEMPO
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2496
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="REDE VIDA" tvg-logo="http://img.starbr.in/1516324691_08c354cb70083b600155c5b2e315e559d7f01fac.png" group-title="Religioso",REDE VIDA
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2499
+#EXTINF:-1 tvg-id="RIT" tvg-name="RIT TV" tvg-logo="http://img.starbr.in/1552701757_d3be5c6a0e9dd4ac4a75fd70f591969265f4cd5b.png" group-title="Religioso",RIT TV
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/37779
+#EXTINF:-1 tvg-id="RIT" tvg-name="RIT TV HD" tvg-logo="http://img.starbr.in/1552701757_d3be5c6a0e9dd4ac4a75fd70f591969265f4cd5b.png" group-title="Religioso",RIT TV HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/37780
+#EXTINF:-1 tvg-id="RIT" tvg-name="RIT TV SHD" tvg-logo="http://img.starbr.in/1552701757_d3be5c6a0e9dd4ac4a75fd70f591969265f4cd5b.png" group-title="Religioso",RIT TV SHD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38474
+#EXTINF:-1 tvg-id="TV Evangelizar" tvg-name="TV EVANGELIZAR" tvg-logo="http://img.starbr.in/1516362927_6189ab17aaf41e4f6160a9cec906a0adabca9405.png" group-title="Religioso",TV EVANGELIZAR
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/11974
+#EXTINF:-1 tvg-id="TV Mundial" tvg-name="TV MUNDIAL" tvg-logo="http://img.starbr.in/1516363670_453b552415fa1d742012f168d8919e131490bfe8.jpg" group-title="Religioso",TV MUNDIAL
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/11971
